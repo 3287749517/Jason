@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800"><rect width="1200" height="800" fill="#f7f8fb"/><text x="60" y="70" font-size="34" font-family="Microsoft YaHei, Arial" fill="#202124">Jason Android 实训项目流程图</text><text x="60" y="115" font-size="18" font-family="Microsoft YaHei, Arial" fill="#5f6368">启动页 -> 登录/注册 -> QQ/微信授权 -> 主界面五个模块 -> 本地数据、网络数据、系统能力</text></svg>
